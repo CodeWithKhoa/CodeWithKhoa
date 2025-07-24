@@ -40,9 +40,9 @@ I am interested in the following topics:
   </picture>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithkhoa&layout=donut&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithkhoa&layout=donut&theme=transparent">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithkhoa&layout=donut&theme=shadow_blue" alt="Top Langs" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithkhoa&layout=compact&theme=tokyonight&hide=css">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithkhoa&layout=compact&theme=transparent&hide=css">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithkhoa&layout=compact&theme=shadow_blue&hide=css" alt="Top Langs" />
   </picture>
 </p>
 
