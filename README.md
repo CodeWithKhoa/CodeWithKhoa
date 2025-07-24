@@ -17,7 +17,7 @@ I am interested in the following topics:
 <a href="https://github.com/CodeWithKhoa" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://youtube.com/@CodeWithKhoa" target="_blank">
+<a href="https://youtube.com/@codewithkhoa" target="_blank">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
 <a href="https://www.facebook.com/OfficialTranDangKhoa" target="_blank">
@@ -26,4 +26,59 @@ I am interested in the following topics:
 <a href="mailto:trandangkhoa31122006@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=codewithkhoa&show_icons=true&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=codewithkhoa&show_icons=true&theme=transparent">
+    <img src="https://github-readme-stats.vercel.app/api?username=codewithkhoa&show_icons=true&theme=shadow_blue" alt="codewithkhoa's GitHub stats" />
+  </picture>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithkhoa&layout=compact&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithkhoa&layout=compact&theme=transparent">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithkhoa&layout=compact&theme=shadow_blue" alt="Top Langs" />
+  </picture>
+</p>
+
+<br>
+
+---
+
+### 🚀 My Projects
+
+<p align="center">
+  <a href="https://github.com/codewithkhoa/Auto_Device_ADB">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Auto_Device_ADB&theme=blueberry" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Auto_Device_ADB&theme=shadow_blue" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Auto_Device_ADB&theme=shadow_blue" />
+    </picture>
+  </a>
+  <a href="https://github.com/codewithkhoa/Diem-danh-hoc-sinh-Face-ID-THPT">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Diem-danh-hoc-sinh-Face-ID-THPT&theme=blueberry" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Diem-danh-hoc-sinh-Face-ID-THPT&theme=shadow_blue" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Diem-danh-hoc-sinh-Face-ID-THPT&theme=shadow_blue" />
+    </picture>
+  </a>
+  <a href="https://github.com/codewithkhoa/pcb_tay_cam">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=pcb_tay_cam&theme=blueberry" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=pcb_tay_cam&theme=shadow_blue" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=pcb_tay_cam&theme=shadow_blue" />
+    </picture>
+  </a>
+  <a href="https://github.com/codewithkhoa/deauther_library">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=deauther_library&theme=blueberry" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=deauther_library&theme=shadow_blue" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=deauther_library&theme=shadow_blue" />
+    </picture>
+  </a>
 </p>
