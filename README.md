@@ -53,10 +53,10 @@ I am interested in the following topics:
 ### 🚀 My Projects
 
 <p align="center">
-  <a href="https://github.com/codewithkhoa/Auto_Device_ADB">
+  <a href="https://github.com/CodeWithKhoa/FaceAutoVN">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Auto_Device_ADB&theme=blueberry" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Auto_Device_ADB&theme=shadow_blue" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=FaceAutoVN&theme=blueberry" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=FaceAutoVN&theme=shadow_blue" />
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Auto_Device_ADB&theme=shadow_blue" />
     </picture>
   </a>
