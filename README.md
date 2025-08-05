@@ -59,9 +59,6 @@ With a hands-on mindset, I enjoy working on practical, impactful solutions that 
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=codewithkhoa&show_icons=true&theme=default">
     <img src="https://github-readme-stats.vercel.app/api?username=codewithkhoa&show_icons=true&theme=shadow_blue" alt="GitHub Stats" />
   </picture>
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithkhoa&layout=compact&theme=tokyonight&hide=css">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithkhoa&layout=compact&theme=default&hide=css">
