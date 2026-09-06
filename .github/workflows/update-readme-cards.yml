@@ -33,6 +33,24 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
+      - name: Expand stats SVG viewport
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+
+          path = Path("profile/stats.svg")
+          svg = path.read_text(encoding="utf-8")
+
+          svg, n1 = re.subn(r'width="345"', 'width="355"', svg, count=1)
+          svg, n2 = re.subn(r'viewBox="0 0 345 195"', 'viewBox="0 0 355 195"', svg, count=1)
+          svg, n3 = re.subn(r'(data-testid="card-bg"[\s\S]*?width=")344("[\s\S]*?/>)', r'\g<1>354\2', svg, count=1)
+
+          if (n1, n2, n3) != (1, 1, 1):
+              raise RuntimeError(f"Unexpected stats.svg structure: width={n1}, viewBox={n2}, bg={n3}")
+
+          path.write_text(svg, encoding="utf-8")
+
       - name: Generate top languages
         uses: stats-organization/github-readme-stats-action@v2
         with:
