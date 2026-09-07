@@ -101,7 +101,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Motor-Control-Deck</text>
+      >CYD-2.8Inch-Mini-Tivi</text>
     </g>
       </g>
     
@@ -114,17 +114,17 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">STM32 4-motor control stack with USB CDC bridge, desktop telemetry,</tspan>
-      <tspan dy="1.2em" x="25">failsafe timeout and direct UART driver testing.</tspan>
+      <tspan dy="1.2em" x="25">ESP32 CYD 2.8-inch mini TV with touch UI and SD MJPEG playback,</tspan>
+      <tspan dy="1.2em" x="25">plus Wi-Fi discovery and LAN streaming for YouTube and VTV.</tspan>
     </text>
 
     <g transform="translate(30, 75)">
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
-      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#555555" />
-      <text data-testid="lang-name" class="gray" x="15">C</text>
+      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#f34b7d" />
+      <text data-testid="lang-name" class="gray" x="15">C++</text>
     </g>
-    </g><g transform="translate(32.420000076293945, 0)"><g transform="translate(0, 0)">
+    </g><g transform="translate(48.82000045776367, 0)"><g transform="translate(0, 0)">
       <svg
         class="icon"
         y="-12"

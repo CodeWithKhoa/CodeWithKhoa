@@ -114,7 +114,8 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">STM32 FreeRTOS demo with multiple tasks (Safety, Control,</tspan><tspan dy="1.2em" x="25">Comms, Logger, Default) and UART output.</tspan>
+      <tspan dy="1.2em" x="25">STM32F103 FreeRTOS demo with prioritized safety, control,</tspan>
+      <tspan dy="1.2em" x="25">communications and logging tasks plus deterministic UART output.</tspan>
     </text>
 
     <g transform="translate(30, 75)">

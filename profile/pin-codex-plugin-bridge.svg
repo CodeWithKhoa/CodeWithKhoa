@@ -101,7 +101,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Motor-Control-Deck</text>
+      >Codex-Plugin-Bridge</text>
     </g>
       </g>
     
@@ -114,17 +114,12 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">STM32 4-motor control stack with USB CDC bridge, desktop telemetry,</tspan>
-      <tspan dy="1.2em" x="25">failsafe timeout and direct UART driver testing.</tspan>
+      <tspan dy="1.2em" x="25">Windows MCP bridge for ChatGPT, Codex and Claude with scoped</tspan>
+      <tspan dy="1.2em" x="25">local tools, async tasks, OAuth, tunnels and path protections.</tspan>
     </text>
 
     <g transform="translate(30, 75)">
-      <g transform="translate(0, 0)">
-    <g data-testid="primary-lang">
-      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#555555" />
-      <text data-testid="lang-name" class="gray" x="15">C</text>
-    </g>
-    </g><g transform="translate(32.420000076293945, 0)"><g transform="translate(0, 0)">
+      <g transform="translate(0, 0)"><g transform="translate(0, 0)">
       <svg
         class="icon"
         y="-12"
