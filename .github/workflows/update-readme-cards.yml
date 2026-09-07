@@ -69,39 +69,21 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
+      - name: Generate CYD Mini TV card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=CYD-2.8Inch-Mini-Tivi&theme=transparent&description_lines_count=3
+          path: profile/pin-cyd-mini-tv.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
       - name: Generate STM32 FreeRTOS card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
           options: username=${{ github.repository_owner }}&repo=STM32-FreeRTOS-Multi-Task-Demo&theme=transparent&description_lines_count=3
           path: profile/pin-stm32-freertos.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
-
-      - name: Generate Altium Library card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=${{ github.repository_owner }}&repo=Altium_Library&theme=transparent&description_lines_count=3
-          path: profile/pin-altium-library.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
-
-      - name: Generate RoboController card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=${{ github.repository_owner }}&repo=RoboController&theme=transparent&description_lines_count=3
-          path: profile/pin-robocontroller.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
-
-      - name: Generate Robot DHTD18A2HN card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=${{ github.repository_owner }}&repo=Robot_DHTD18A2HN_2025&theme=transparent&description_lines_count=3
-          path: profile/pin-robot-dhtd18a2hn-2025.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
@@ -114,23 +96,105 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
-      - name: Generate Agrisort AI card
+      - name: Generate Robot DHTD18A2HN card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=Agrisort-AI&theme=transparent&description_lines_count=3
-          path: profile/pin-agrisort-ai.svg
+          options: username=${{ github.repository_owner }}&repo=Robot_DHTD18A2HN_2025&theme=transparent&description_lines_count=3
+          path: profile/pin-robot-dhtd18a2hn-2025.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
-      - name: Generate ChatAI Desktop card
+      - name: Generate Altium Library card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=ChatAI-Desktop&theme=transparent&description_lines_count=3
-          path: profile/pin-chatai-desktop.svg
+          options: username=${{ github.repository_owner }}&repo=Altium_Library&theme=transparent&description_lines_count=3
+          path: profile/pin-altium-library.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
+
+      - name: Generate Codex Plugin Bridge card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=Codex-Plugin-Bridge&theme=transparent&description_lines_count=3
+          path: profile/pin-codex-plugin-bridge.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate TranslateDub card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=TranslateDub&theme=transparent&description_lines_count=3
+          path: profile/pin-translatedub.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Apply curated card descriptions
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+          from xml.sax.saxutils import escape
+
+          cards = {
+              "profile/pin-motor-control-deck.svg": [
+                  "STM32 4-motor control stack with USB CDC bridge, desktop telemetry,",
+                  "failsafe timeout and direct UART driver testing.",
+              ],
+              "profile/pin-cyd-mini-tv.svg": [
+                  "ESP32 CYD 2.8-inch mini TV with touch UI and SD MJPEG playback,",
+                  "plus Wi-Fi discovery and LAN streaming for YouTube and VTV.",
+              ],
+              "profile/pin-stm32-freertos.svg": [
+                  "STM32F103 FreeRTOS demo with prioritized safety, control,",
+                  "communications and logging tasks plus deterministic UART output.",
+              ],
+              "profile/pin-do-line.svg": [
+                  "Arduino Mega line follower with PID control, anti-windup,",
+                  "derivative filtering, adaptive speed and live serial tuning.",
+              ],
+              "profile/pin-robot-dhtd18a2hn-2025.svg": [
+                  "ESP32 Bluetooth robot with DC drive, 4-servo arm, dual control",
+                  "modes and a 500 ms communication failsafe.",
+              ],
+              "profile/pin-altium-library.svg": [
+                  "Reusable Altium schematic and PCB footprint library with",
+                  "installation, verification and Gerber manufacturing guidance.",
+              ],
+              "profile/pin-codex-plugin-bridge.svg": [
+                  "Windows MCP bridge for ChatGPT, Codex and Claude with scoped",
+                  "local tools, async tasks, OAuth, tunnels and path protections.",
+              ],
+              "profile/pin-translatedub.svg": [
+                  "Manifest V3 extension for translated and bilingual subtitles",
+                  "plus synchronized TTS dubbing across video platforms.",
+              ],
+          }
+
+          pattern = re.compile(
+              r'<text class="description" x="25" y="-5">[\s\S]*?</text>',
+              re.MULTILINE,
+          )
+
+          for filename, lines in cards.items():
+              path = Path(filename)
+              svg = path.read_text(encoding="utf-8")
+              tspans = "".join(
+                  f'\n      <tspan dy="1.2em" x="25">{escape(line)}</tspan>'
+                  for line in lines
+              )
+              replacement = (
+                  '<text class="description" x="25" y="-5"> '
+                  + tspans
+                  + "\n    </text>"
+              )
+              svg, count = pattern.subn(replacement, svg, count=1)
+              if count != 1:
+                  raise RuntimeError(f"Could not replace description in {filename}")
+              path.write_text(svg, encoding="utf-8")
 
       - name: Commit generated cards
         shell: bash
@@ -142,5 +206,5 @@ jobs:
             echo "No card changes to commit."
             exit 0
           fi
-          git commit -m "chore: refresh README cards"
+          git commit -m "chore: refresh curated README cards"
           git push
