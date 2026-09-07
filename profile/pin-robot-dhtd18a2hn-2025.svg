@@ -114,8 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">ESP32 Bluetooth robot with DC drive, 4-servo arm, dual control</tspan>
-      <tspan dy="1.2em" x="25">modes and a 500 ms communication failsafe.</tspan>
+      <tspan dy="1.2em" x="25">Robot Bluetooth ESP32 (2025) &#8211; UNETI, DHTD18A2HN. &#272;i&#7879;n</tspan><tspan dy="1.2em" x="25">tho&#7841;i d&#249;ng app Bluetooth (SPP) k&#7871;t n&#7889;i tr&#7921;c ti&#7871;p ESP32,</tspan><tspan dy="1.2em" x="25">kh&#244;ng c&#7847;n tay c&#7847;m. &#272;i&#7873;u khi&#7875;n 2 DC + 4 servo tay g&#7855;p; 2 ch&#7871;...</tspan>
     </text>
 
     <g transform="translate(30, 75)">

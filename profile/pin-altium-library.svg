@@ -114,8 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">Reusable Altium schematic and PCB footprint library with</tspan>
-      <tspan dy="1.2em" x="25">installation, verification and Gerber manufacturing guidance.</tspan>
+      <tspan dy="1.2em" x="25">Curated schematic &#38; PCB footprint libraries for Altium</tspan><tspan dy="1.2em" x="25">Designer &#8211; reusable, standardized, and production-ready.</tspan>
     </text>
 
     <g transform="translate(30, 75)">

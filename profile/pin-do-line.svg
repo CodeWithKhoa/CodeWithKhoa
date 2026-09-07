@@ -114,8 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">Arduino Mega line follower with PID control, anti-windup,</tspan>
-      <tspan dy="1.2em" x="25">derivative filtering, adaptive speed and live serial tuning.</tspan>
+      <tspan dy="1.2em" x="25">Arduino Mega 2560 line follower robot with PID control,</tspan><tspan dy="1.2em" x="25">anti-windup, derivative filtering, adaptive speed and live</tspan><tspan dy="1.2em" x="25">tuning.</tspan>
     </text>
 
     <g transform="translate(30, 75)">

@@ -114,8 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">STM32 4-motor control stack with USB CDC bridge, desktop telemetry,</tspan>
-      <tspan dy="1.2em" x="25">failsafe timeout and direct UART driver testing.</tspan>
+      <tspan dy="1.2em" x="25">B&#7897; c&#244;ng c&#7909; &#273;i&#7873;u khi&#7875;n &#273;&#7897;ng c&#417; d&#249;ng cho STM32, h&#7895; tr&#7907; USB</tspan><tspan dy="1.2em" x="25">CDC bridge, &#273;i&#7873;u khi&#7875;n base, test 4 &#273;&#7897;ng c&#417; v&#224; g&#7917;i UART tr&#7921;c</tspan><tspan dy="1.2em" x="25">ti&#7871;p t&#7899;i driver.</tspan>
     </text>
 
     <g transform="translate(30, 75)">

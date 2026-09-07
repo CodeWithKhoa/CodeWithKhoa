@@ -114,8 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">ESP32 CYD 2.8-inch mini TV with touch UI and SD MJPEG playback,</tspan>
-      <tspan dy="1.2em" x="25">plus Wi-Fi discovery and LAN streaming for YouTube and VTV.</tspan>
+      <tspan dy="1.2em" x="25">ESP32 CYD 2.8-inch mini TV with touch UI, SD MJPEG</tspan><tspan dy="1.2em" x="25">playback, Wi-Fi discovery, YouTube and VTV LAN streaming.</tspan>
     </text>
 
     <g transform="translate(30, 75)">

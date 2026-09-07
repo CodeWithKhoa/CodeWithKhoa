@@ -114,8 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">Manifest V3 extension for translated and bilingual subtitles</tspan>
-      <tspan dy="1.2em" x="25">plus synchronized TTS dubbing across video platforms.</tspan>
+      <tspan dy="1.2em" x="25">Manifest V3 browser extension for translated and bilingual</tspan><tspan dy="1.2em" x="25">subtitles with synchronized TTS dubbing across video</tspan><tspan dy="1.2em" x="25">platforms.</tspan>
     </text>
 
     <g transform="translate(30, 75)">

@@ -114,8 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">Windows MCP bridge for ChatGPT, Codex and Claude with scoped</tspan>
-      <tspan dy="1.2em" x="25">local tools, async tasks, OAuth, tunnels and path protections.</tspan>
+      <tspan dy="1.2em" x="25">Secure Windows MCP bridge connecting ChatGPT, Codex</tspan><tspan dy="1.2em" x="25">and Claude to local workspaces with scoped tools, OAuth</tspan><tspan dy="1.2em" x="25">and tunnel support.</tspan>
     </text>
 
     <g transform="translate(30, 75)">
