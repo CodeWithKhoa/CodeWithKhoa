@@ -27,9 +27,8 @@ Electrical engineering student at **UNETI**, building practical systems across h
 ## GitHub overview
 
 <p align="center">
-  <img width="47%" alt="GitHub statistics" src="./profile/stats.svg" />
-  &nbsp;&nbsp;
-  <img width="47%" alt="Top languages" src="./profile/top-langs.svg" />
+  <img width="355" alt="GitHub statistics" src="./profile/stats.svg" />
+  <img width="345" alt="Top languages" src="./profile/top-langs.svg" />
 </p>
 
 ---
@@ -57,29 +56,25 @@ I use GitHub as both a project workspace and an engineering notebook, keeping so
 ### Embedded, control and hardware
 
 <p align="center">
-  <a href="https://github.com/TranDangKhoaTechnology/Motor-Control-Deck/"><img width="47%" src="./profile/pin-motor-control-deck.svg" alt="Motor Control Deck repository" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/TranDangKhoaTechnology/STM32-FreeRTOS-Multi-Task-Demo/"><img width="47%" src="./profile/pin-stm32-freertos.svg" alt="STM32 FreeRTOS Multi Task Demo repository" /></a>
+  <a href="https://github.com/TranDangKhoaTechnology/Motor-Control-Deck/"><img width="345" src="./profile/pin-motor-control-deck.svg" alt="Motor Control Deck repository" /></a>
+  <a href="https://github.com/TranDangKhoaTechnology/STM32-FreeRTOS-Multi-Task-Demo/"><img width="345" src="./profile/pin-stm32-freertos.svg" alt="STM32 FreeRTOS Multi Task Demo repository" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/TranDangKhoaTechnology/Altium_Library/"><img width="47%" src="./profile/pin-altium-library.svg" alt="Altium Library repository" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/TranDangKhoaTechnology/RoboController/"><img width="47%" src="./profile/pin-robocontroller.svg" alt="RoboController repository" /></a>
+  <a href="https://github.com/TranDangKhoaTechnology/Altium_Library/"><img width="345" src="./profile/pin-altium-library.svg" alt="Altium Library repository" /></a>
+  <a href="https://github.com/TranDangKhoaTechnology/RoboController/"><img width="345" src="./profile/pin-robocontroller.svg" alt="RoboController repository" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/TranDangKhoaTechnology/Robot_DHTD18A2HN_2025/"><img width="47%" src="./profile/pin-robot-dhtd18a2hn-2025.svg" alt="Robot DHTD18A2HN 2025 repository" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/TranDangKhoaTechnology/Do_Line/"><img width="47%" src="./profile/pin-do-line.svg" alt="Do Line repository" /></a>
+  <a href="https://github.com/TranDangKhoaTechnology/Robot_DHTD18A2HN_2025/"><img width="345" src="./profile/pin-robot-dhtd18a2hn-2025.svg" alt="Robot DHTD18A2HN 2025 repository" /></a>
+  <a href="https://github.com/TranDangKhoaTechnology/Do_Line/"><img width="345" src="./profile/pin-do-line.svg" alt="Do Line repository" /></a>
 </p>
 
 ### AI and software
 
 <p align="center">
-  <a href="https://github.com/TranDangKhoaTechnology/Agrisort-AI/"><img width="47%" src="./profile/pin-agrisort-ai.svg" alt="Agrisort AI repository" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/TranDangKhoaTechnology/ChatAI-Desktop/"><img width="47%" src="./profile/pin-chatai-desktop.svg" alt="ChatAI Desktop repository" /></a>
+  <a href="https://github.com/TranDangKhoaTechnology/Agrisort-AI/"><img width="345" src="./profile/pin-agrisort-ai.svg" alt="Agrisort AI repository" /></a>
+  <a href="https://github.com/TranDangKhoaTechnology/ChatAI-Desktop/"><img width="345" src="./profile/pin-chatai-desktop.svg" alt="ChatAI Desktop repository" /></a>
 </p>
 
 ---
