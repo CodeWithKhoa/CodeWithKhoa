@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/TranDangKhoaTechnology.png" width="140" alt="Trần Đăng Khoa" />
+<img src="https://github.com/TranDangKhoaAutomation.png" width="140" alt="Trần Đăng Khoa" />
 
 # Trần Đăng Khoa
 
@@ -9,14 +9,14 @@
 Electrical engineering student at **UNETI**, building practical systems across hardware, firmware, automation, and software.
 
 <p>
-  <a href="https://github.com/TranDangKhoaTechnology"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/TranDangKhoaAutomation"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:trandangkhoa.automation@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://youtube.com/@TranDangKhoaTechnology"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.facebook.com/OfficialTranDangKhoa"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=TranDangKhoaTechnology&style=flat-square&color=0ea5e9" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=TranDangKhoaAutomation&style=flat-square&color=0ea5e9" alt="Profile views" />
   <img src="https://img.shields.io/badge/Based_in-Vietnam-da251d?style=flat-square" alt="Based in Vietnam" />
 </p>
 
@@ -58,27 +58,27 @@ Selected for technical depth, completeness, documentation quality, and relevance
 ### Embedded systems & control
 
 <p align="center">
-  <a href="https://github.com/TranDangKhoaTechnology/Motor-Control-Deck/"><img width="345" src="./profile/pin-motor-control-deck.svg" alt="Motor Control Deck repository" /></a>
-  <a href="https://github.com/TranDangKhoaTechnology/CYD-2.8Inch-Mini-Tivi/"><img width="345" src="./profile/pin-cyd-mini-tv.svg" alt="CYD 2.8 Inch Mini Tivi repository" /></a>
+  <a href="https://github.com/TranDangKhoaAutomation/Motor-Control-Deck/"><img width="345" src="./profile/pin-motor-control-deck.svg" alt="Motor Control Deck repository" /></a>
+  <a href="https://github.com/TranDangKhoaAutomation/CYD-2.8Inch-Mini-Tivi/"><img width="345" src="./profile/pin-cyd-mini-tv.svg" alt="CYD 2.8 Inch Mini Tivi repository" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/TranDangKhoaTechnology/STM32-FreeRTOS-Multi-Task-Demo/"><img width="345" src="./profile/pin-stm32-freertos.svg" alt="STM32 FreeRTOS Multi Task Demo repository" /></a>
-  <a href="https://github.com/TranDangKhoaTechnology/Do_Line/"><img width="345" src="./profile/pin-do-line.svg" alt="Do Line repository" /></a>
+  <a href="https://github.com/TranDangKhoaAutomation/STM32-FreeRTOS-Multi-Task-Demo/"><img width="345" src="./profile/pin-stm32-freertos.svg" alt="STM32 FreeRTOS Multi Task Demo repository" /></a>
+  <a href="https://github.com/TranDangKhoaAutomation/Do_Line/"><img width="345" src="./profile/pin-do-line.svg" alt="Do Line repository" /></a>
 </p>
 
 ### Robotics, hardware & PCB
 
 <p align="center">
-  <a href="https://github.com/TranDangKhoaTechnology/Robot_DHTD18A2HN_2025/"><img width="345" src="./profile/pin-robot-dhtd18a2hn-2025.svg" alt="Robot DHTD18A2HN 2025 repository" /></a>
-  <a href="https://github.com/TranDangKhoaTechnology/Altium_Library/"><img width="345" src="./profile/pin-altium-library.svg" alt="Altium Library repository" /></a>
+  <a href="https://github.com/TranDangKhoaAutomation/Robot_DHTD18A2HN_2025/"><img width="345" src="./profile/pin-robot-dhtd18a2hn-2025.svg" alt="Robot DHTD18A2HN 2025 repository" /></a>
+  <a href="https://github.com/TranDangKhoaAutomation/Altium_Library/"><img width="345" src="./profile/pin-altium-library.svg" alt="Altium Library repository" /></a>
 </p>
 
 ### Software & developer tooling
 
 <p align="center">
-  <a href="https://github.com/TranDangKhoaTechnology/Codex-Plugin-Bridge/"><img width="345" src="./profile/pin-codex-plugin-bridge.svg" alt="Codex Plugin Bridge repository" /></a>
-  <a href="https://github.com/TranDangKhoaTechnology/TranslateDub/"><img width="345" src="./profile/pin-translatedub.svg" alt="TranslateDub repository" /></a>
+  <a href="https://github.com/TranDangKhoaAutomation/Codex-Plugin-Bridge/"><img width="345" src="./profile/pin-codex-plugin-bridge.svg" alt="Codex Plugin Bridge repository" /></a>
+  <a href="https://github.com/TranDangKhoaAutomation/TranslateDub/"><img width="345" src="./profile/pin-translatedub.svg" alt="TranslateDub repository" /></a>
 </p>
 
 ---
@@ -125,7 +125,7 @@ Selected for technical depth, completeness, documentation quality, and relevance
 <p>
   <a href="mailto:trandangkhoa.automation@gmail.com"><strong>Email</strong></a>
   ·
-  <a href="https://github.com/TranDangKhoaTechnology"><strong>GitHub</strong></a>
+  <a href="https://github.com/TranDangKhoaAutomation"><strong>GitHub</strong></a>
   ·
   <a href="https://youtube.com/@TranDangKhoaTechnology"><strong>YouTube</strong></a>
   ·
